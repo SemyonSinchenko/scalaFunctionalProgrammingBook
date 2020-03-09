@@ -29,3 +29,6 @@ project/plugins/project/
 
 null
 project
+/bin/
+.idea/
+*.iml
